@@ -24,11 +24,16 @@ html, hmtl a{
 }
 
 body{
-	background:#2F3238;
+	/*background:#2F3238;*/
+    background: linear-gradient(45deg, #2f1110 3%,#2f1110 13%,#642810 37%,#2f1110 62%,#642810 81%,#642810 81%,#2f1110 94%);
 	color:#7F8289;
 	font-weight:300;
 	font-size:16px;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Merriweather', serif;
+    font-family: 'Crete Round', serif;
+    font-family: 'Sorts Mill Goudy', serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Berkshire Swash', cursive;
 	line-height:28px;
 }
 
@@ -503,7 +508,7 @@ header #logo {
 }
 
 header #logo a {
-	background: url(../img/logo.png) no-repeat;
+	/*background: url(../img/logo.png) no-repeat;*/
 	width: 96px;
 	height: 30px;
 	text-indent: -9999px;
@@ -628,15 +633,17 @@ nav#menu #menu-nav li a:hover {
 ================================================== */
 
 .page {
-	background: #2F3238;
+	/*background: #2F3238;*/
+    background: linear-gradient(45deg, #2f1110 3%,#2f1110 13%,#642810 37%,#2f1110 62%,#642810 81%,#642810 81%,#2f1110 94%);
 	padding: 100px 0;
 	position: relative;
 	z-index: 99;
 }
 
 .page-alternate {
-	background: #26292E;
-	padding: 100px 0;
+	/*background: #26292E;*/
+	background: linear-gradient(45deg, #2f1110 3%,#2f1110 13%,#642810 37%,#2f1110 62%,#642810 81%,#642810 81%,#2f1110 94%);
+    padding: 100px 0;
 	position: relative;
 	z-index: 99;
 }
