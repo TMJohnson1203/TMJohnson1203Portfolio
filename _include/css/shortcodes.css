@@ -32,8 +32,8 @@
 .button:hover,
 .button:active,
 .button:focus {
-	background-color: #DE5E60;
-	color:#FFFFFF;
+	background-color: #5C0D0F;
+	color:#FFF9CF;
 }
 
 /* --- Button Sizes --- */
@@ -106,13 +106,13 @@
 
 .accordion-heading:hover .accordion-toggle,
 .accordion-heading:hover .accordion-toggle.inactive {
-	background:#DE5E60;
-	color:#FFFFFF;
+	background:#5C0D0F;
+	color:#FFF9CF;
 }
 
 .accordion-heading .accordion-toggle.active {
-	background:#DE5E60;
-	color:#FFFFFF;
+	background:#5C0D0F;
+	color:#FFF9CF;
 }
 
 .accordion-heading .accordion-toggle.inactive {
@@ -136,12 +136,12 @@
 }
 
 .accordion-heading:hover .accordion-toggle span {
-	color: #FFFFFF;
+	color: #FFF9CF;
 }
 
 .accordion-heading .accordion-toggle.active span,
 .accordion-heading:hover .accordion-toggle.inactive span {
-	color: #FFFFFF;	
+	color: #FFF9CF;	
 }
 
 .accordion-heading.accordionize .accordion-toggle.active span,
@@ -169,7 +169,7 @@
 }
 
 .accordion-inner {
-	background: #26292E;
+	background:#1F0706;
   	padding: 16px 20px;
 	border: none;
 }
@@ -191,7 +191,7 @@
 
 .alert,
 .alert h4 {
-	color: #FFFFFF;
+	color: #FFF9CF;
 }
 
 .alert h4 {
@@ -203,7 +203,7 @@
   	top: 2px;
   	right: -22px;
   	line-height: 20px;
-	color: #FFFFFF;	
+	color: #FFF9CF;	
 	text-shadow: none;
 	
 	-webkit-transition: opacity 0.1s linear 0s;
@@ -273,8 +273,8 @@
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  	background-color: #DE5E60;
-	color: #FFFFFF;
+  	background-color: #5C0D0F;
+	color: #FFF9CF;
   	text-decoration: none;
   	display: block;
 }
@@ -321,8 +321,8 @@
 .nav-tabs > .active > a:hover,
 .nav-tabs > .active > a:focus {
 	border: none;
-  	background-color: #DE5E60;
-	color: #FFFFFF;
+  	background-color: #5C0D0F;
+	color: #FFF9CF;
   	cursor: default;
 }
 
@@ -344,7 +344,7 @@
 .tab-content {
   	overflow: auto;
 	padding: 20px;
-	background: #26292E;
+	background:#1F0706;
 }
 
 .tab-content > .tab-pane {
@@ -362,7 +362,7 @@
 
 blockquote {
   	padding: 15px 20px;
-  	border-left: 2px solid #DE5E60;
+  	border-left: 2px solid #5C0D0F;
 }
 
 blockquote p {
@@ -427,8 +427,8 @@ blockquote small:before {
   	-webkit-border-radius: 0;
        -moz-border-radius: 0;
           	border-radius: 0;
-  	background-color: #FFFFFF;
-  	color: #26292E;
+  	background-color: #FFF9CF;
+  	color:#1F0706;
   	text-align: center;
   	text-decoration: none;
 }
@@ -446,7 +446,7 @@ blockquote small:before {
   	left: 50%;
   	margin-left: -15px;
   	border-width: 10px 10px 0;
-  	border-top-color: #FFFFFF;
+  	border-top-color: #FFF9CF;
 }
 
 .tooltip.right .tooltip-arrow {
@@ -454,7 +454,7 @@ blockquote small:before {
   	left: 0;
   	margin-top: -15px;
   	border-width: 10px 10px 10px 0;
-  	border-right-color: #FFFFFF;
+  	border-right-color: #FFF9CF;
 }
 
 .tooltip.left .tooltip-arrow {
@@ -462,7 +462,7 @@ blockquote small:before {
   	right: 0;
   	margin-top: -15px;
   	border-width: 10px 0 10px 10px;
-  	border-left-color: #FFFFFF;
+  	border-left-color: #FFF9CF;
 }
 
 .tooltip.bottom .tooltip-arrow {
@@ -470,7 +470,7 @@ blockquote small:before {
   	left: 50%;
   	margin-left: -15px;
   	border-width: 0 10px 10px;
-  	border-bottom-color: #FFFFFF;
+  	border-bottom-color: #FFF9CF;
 }
 
 /* ==================================================
@@ -478,7 +478,7 @@ blockquote small:before {
 ================================================== */
 
 .info-block {
-    border-left: 2px solid #DE5E60;
+    border-left: 2px solid #5C0D0F;
     overflow: hidden;
     padding: 20px;
     position: relative;
@@ -552,7 +552,7 @@ blockquote small:before {
 	width: 70px;
 	height: 70px;
 
-	background: #26292E;
+	background:#1F0706;
 	
 	-webkit-transition: all 400ms ease-out 0s;	
 	   -moz-transition: all 400ms ease-out 0s;
@@ -590,7 +590,7 @@ blockquote small:before {
 
 .icons-example ul li:hover a,
 .icons-example ul li.active a {
-	background-color: #DE5E60;	
+	background-color: #5C0D0F;	
 	
 	-webkit-transform: rotateY(180deg);
 	   -moz-transform: rotateY(180deg);
@@ -601,7 +601,7 @@ blockquote small:before {
 
 .icons-example ul li:hover a span,
 .icons-example ul li.active a span {
-	color: #FFFFFF;
+	color: #FFF9CF;
 	opacity: 1;
 	filter: alpha(opacity=100);
 	

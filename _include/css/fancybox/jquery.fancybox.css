@@ -27,7 +27,7 @@
 .fancybox-skin {
 	position: relative;
 	background: #2F3238;
-	color: #7F8289;
+	color: #D5A671;
 	text-shadow: none;
 	-webkit-border-radius: 0;
 	   -moz-border-radius: 0;
@@ -107,7 +107,7 @@
 	cursor: pointer;
 	z-index: 9000;
 	background-image: none;
-	background-color: #26292E;
+	background-color:#1F0706;
 	
 	opacity: 0.5;
 	
@@ -124,12 +124,12 @@
 	font-size: 22px;
 	line-height: 1em;
 	position: absolute;
-	color: #FFFFFF;
+	color: #FFF9CF;
 }
 
 .fancybox-close:hover {
 	opacity: 1;
-	background-color:#DE5E60;
+	background-color:#5C0D0F;
 }
 
 .fancybox-nav {
@@ -162,7 +162,7 @@
 	cursor: pointer;
 	z-index: 8040;
 	background-image: none;
-	background-color: #26292E;
+	background-color:#1F0706;
 	
 	opacity: 0.5;
 	
@@ -179,7 +179,7 @@
 	font-size: 30px;
 	line-height: 1em;
 	position: absolute;
-	color: #FFFFFF;
+	color: #FFF9CF;
 }
 
 
@@ -190,12 +190,12 @@
 	font-size: 30px;
 	line-height: 1em;
 	position: absolute;
-	color: #FFFFFF;
+	color: #FFF9CF;
 }
 
 .fancybox-nav:hover span {
 	opacity: 1;
-	background-color:#DE5E60;
+	background-color:#5C0D0F;
 }
 
 .fancybox-tmp {
